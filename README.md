@@ -1,4 +1,4 @@
-# computerVision
+# ComputerVision
 Some practice in computer vision. Potential for a final year project idea.
 ### Small ideas for meantime
 - When is the best time to find a space outside my flat
